@@ -1,6 +1,8 @@
 {
   "scripts": {
-    "dev": "vite --host 127.0.0.1"
+    "dev": "vite --host 127.0.0.1",
+    "build": "vite build",
+    "deploy": "vercel --prod"
   },
   "dependencies": {
     "@tweenjs/tween.js": "^23.1.2",
