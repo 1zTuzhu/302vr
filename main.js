@@ -54,7 +54,7 @@ const paintings = [
     'Bicentennial',
     'Mithina',
     'Trukanini',
-    'DouglasMawson'
+    'Douglas_Mawson'
 ];
 const imageDetails = {
     'HunterHenry': 'Hunter Henry (1832-1892), after whom this room is named after, was an architect that designed the plans for the Hobart Town Hall.',
@@ -63,7 +63,7 @@ const imageDetails = {
     'Bicentennial': 'A gift to the City of Hobart for the bicentennial year, from the Hobart Embroiderers Guild.',
     'Mithina': 'Mithina (1835-52) was born on Flinders Island after her parents from moved from their homeland of Lutruwita (Tasmania). She was moved between several families and stations before passing away on the 1st September 1952 at the age of 16. This painting was commissioned by the Governor of Tasmania, Sir John Franklin when Mithina was only 7 years old.',
     'Trukanini': 'Trukanini (1812-76) is an iconic figure in the history of Lutruwina (Tasmania). She endured and resisted the brutalisation wrought upon Aboriginal people by British invasion and, after years of incarceration on Flinders Island after trying to negotiate a peace deal, was relocated to Putalina (Oyster Cove). Trukanini was falsely pronounced the "Last Tasmanian Aborigine" and was, against her wishes, exhumed and her skeleton was displayed until 1947. She has since been cremated and her ashes spread as she wished.',
-    'DouglasMawson': 'The Australasian Antarctic Expedition of 1911-14, led by Douglas Mawson departing Queens Wharf, Hobart on board S.Y. Aurora, December 2, 1911.'
+    'Douglas_Mawson': 'The Australasian Antarctic Expedition of 1911-14, led by Douglas Mawson departing Queens Wharf, Hobart on board S.Y. Aurora, December 2, 1911.'
 };
 
 // Load the GLB model
